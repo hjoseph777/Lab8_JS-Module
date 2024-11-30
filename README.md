@@ -1,7 +1,9 @@
 # Lab8_JS-Module
 ### Application Synopsis
 
-This application demonstrates various JavaScript functionalities including object manipulation, JSON conversion, destructuring, and the use of ES6 features. The application is structured to provide a comprehensive understanding of how to work with JavaScript objects and their properties, convert objects to JSON strings and back, and use modern JavaScript features like the spread operator and destructuring.
+This application demonstrates various JavaScript functionalities including object manipulation, JSON conversion, destructuring, and the use of ES6 features. The application is structured to provide a comprehensive understanding of how to work with JavaScript objects and their properties, convert objects to JSON strings and back, and use modern JavaScript features like the spread operator and restructuring.
+
+
 
 The application is divided into several sections:
 - **Creating Object**: Demonstrates how to create and manipulate a JavaScript object.
@@ -12,7 +14,7 @@ The application is divided into several sections:
 
 ### Clickable Links to Code with an Explanation
 
-### View Application click 
+### View Application click Arrows to expand and see the output directly on the web page or  press 12 to see output on the web console.
 You can view and interact with the application by opening the following link: [Lab 8 JS Module Application](https://hjoseph777.github.io/Lab8_JS-Module/)
 
 #### [index.html](./index.html)
