@@ -14,7 +14,7 @@ The application is divided into several sections:
 
 ### Clickable Links to Code with an Explanation
 
-### View Application click Arrows to expand and see the output directly on the web page or  press 12 to see output on the web console.
+### View Application click Arrows to expand and see the output directly on the web page or  press F12 to see output on the web console.
 You can view and interact with the application by opening the following link: [Lab 8 JS Module Application](https://hjoseph777.github.io/Lab8_JS-Module/)
 
 #### [index.html](./index.html)
