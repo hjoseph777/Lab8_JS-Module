@@ -12,10 +12,12 @@ The application is divided into several sections:
 - **Cloning and Merging**: Uses the spread operator to clone objects and merge arrays.
 - **Object Methods**: Adds methods to the object to dynamically manipulate its properties.
 
-### Clickable Links to Code with an Explanation
+## Clickable Links to Code with an Explanation
 
-## View Application click Arrows to expand and see the output directly on the web page or  press F12 to see output on the web console.
+## <span style="color:red;">View Application click Arrows to expand and see the output directly on the web page or press F12 to see output on the web console.</span>
 You can view and interact with the application by opening the following link: [Lab 8 JS Module Application](https://hjoseph777.github.io/Lab8_JS-Module/)
+
+
 
 #### [index.html](./index.html)
 This file serves as the main entry point for the application. It includes references to the necessary scripts and stylesheets and provides sections to display the output of various JavaScript operations.
