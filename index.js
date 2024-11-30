@@ -30,6 +30,7 @@ const student = {
     }
 };
 
+
 // Output the name and age properties
 printToPage(`Name: ${student.name}`, 'objectOutput');
 printToPage(`Age: ${student.age}`, 'objectOutput');
